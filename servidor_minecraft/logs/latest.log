@@ -1,139 +1,107 @@
-[23:23:45] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[23:23:45] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[23:23:45] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[23:23:45] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[23:23:45] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[06:28:47] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[06:28:47] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[06:28:47] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[06:28:48] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[06:28:48] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.7.10)
-[23:23:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:23:53] [ServerMain/INFO]: Loaded 1407 recipes
-[23:23:53] [ServerMain/INFO]: Loaded 1520 advancements
-[23:23:53] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[23:23:53] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 366.0ms
-[23:23:53] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[23:23:53] [Server thread/INFO]: Loading properties
-[23:23:53] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[23:23:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[23:23:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:23:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:23:54] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[23:23:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[23:23:55] [Server thread/INFO]: Default game type: SURVIVAL
-[23:23:55] [Server thread/INFO]: Generating keypair
-[23:23:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:23:55] [Server thread/INFO]: Using epoll channel type
-[23:23:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[23:23:55] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[23:23:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
-[23:23:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:23:55] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
-[23:23:56] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[23:23:56] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[23:23:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:23:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:23:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:23:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:23:56] [Server thread/INFO]: Preparing level "world"
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[23:23:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[23:23:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:23:57] [Server thread/INFO]: Preparing spawn area: 0%
-[23:23:57] [Server thread/INFO]: Preparing spawn area: 2%
-[23:23:58] [Server thread/INFO]: Preparing spawn area: 2%
-[23:23:58] [Server thread/INFO]: Time elapsed: 1095 ms
-[23:23:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:23:58] [Server thread/INFO]: Preparing spawn area: 0%
-[23:23:58] [Server thread/INFO]: Time elapsed: 262 ms
-[23:23:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[23:23:58] [Server thread/INFO]: Preparing spawn area: 0%
-[23:23:58] [Server thread/INFO]: Time elapsed: 89 ms
-[23:23:59] [Server thread/INFO]: [spark] Starting background profiler...
-[23:23:59] [Server thread/INFO]: Done preparing level "world" (2.361s)
-[23:23:59] [Server thread/INFO]: Running delayed init tasks
-[23:23:59] [Server thread/INFO]: Done (14.838s)! For help, type "help"
-[23:24:32] [User Authenticator #0/INFO]: UUID of player musso223 is 654a1ad5-f5af-328b-aab5-6d7d3c337c3d
-[23:24:32] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
-[23:24:33] [Server thread/INFO]: musso223 joined the game
-[23:24:33] [Server thread/INFO]: musso223[/127.203.16.208:54501] logged in with entity id 85 at ([world]29.9095488543598, 94.24918707874468, -3.3603472336729348)
-[23:25:05] [Server thread/INFO]: musso223 was kicked due to keepalive timeout!
-[23:25:05] [Server thread/INFO]: musso223 lost connection: Timed out
-[23:25:05] [Server thread/INFO]: musso223 left the game
-[23:25:12] [Server thread/INFO]: Made musso223 a server operator
-[23:25:50] [User Authenticator #1/INFO]: UUID of player musso223 is 654a1ad5-f5af-328b-aab5-6d7d3c337c3d
-[23:25:51] [Server thread/INFO]: musso223 joined the game
-[23:25:51] [Server thread/INFO]: musso223[/127.203.16.208:33675] logged in with entity id 267 at ([world]29.9095488543598, 93.0, -3.3603472336729348)
-[23:26:00] [Server thread/INFO]: [musso223: Set own game mode to Creative Mode]
-[23:26:22] [Server thread/INFO]: musso223 was kicked due to keepalive timeout!
-[23:26:22] [Server thread/INFO]: musso223 lost connection: Timed out
-[23:26:22] [Server thread/INFO]: musso223 left the game
-[23:26:52] [User Authenticator #2/INFO]: UUID of player D0ptra is 8001d426-478b-376a-9c9d-370b97298761
-[23:26:52] [Netty Epoll Server IO #2/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
-io.netty.channel.StacklessClosedChannelException: null
-	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-[23:26:58] [User Authenticator #2/INFO]: UUID of player musso223 is 654a1ad5-f5af-328b-aab5-6d7d3c337c3d
-[23:27:00] [Server thread/INFO]: musso223 joined the game
-[23:27:00] [Server thread/INFO]: musso223[/127.203.16.208:44431] logged in with entity id 352 at ([world]28.73761128701803, 92.0, 3.9677897689529202)
-[23:27:15] [Server thread/INFO]: D0ptra joined the game
-[23:27:15] [Server thread/INFO]: D0ptra[/127.152.24.164:46381] logged in with entity id 351 at ([world]-8.5, 100.0, -14.5)
-[23:27:27] [User Authenticator #2/INFO]: UUID of player xl_Urriel is 43b190dc-7144-35bb-9cb5-0befa3a3fa7b
-[23:27:29] [Server thread/INFO]: xl_Urriel joined the game
-[23:27:29] [Server thread/INFO]: xl_Urriel[/127.35.155.111:35287] logged in with entity id 393 at ([world]-0.5, 73.0, -13.5)
-[23:27:32] [Server thread/INFO]: musso223 was kicked due to keepalive timeout!
-[23:27:32] [Server thread/INFO]: musso223 lost connection: Timed out
-[23:27:32] [Server thread/INFO]: musso223 left the game
-[23:27:53] [Server thread/INFO]: D0ptra lost connection: Disconnected
-[23:27:53] [Server thread/INFO]: D0ptra left the game
-[23:27:54] [Netty Epoll Server IO #1/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
-io.netty.channel.StacklessClosedChannelException: null
-	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-[23:27:54] [Netty Epoll Server IO #1/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
-io.netty.channel.StacklessClosedChannelException: null
-	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
-[23:27:57] [User Authenticator #2/INFO]: UUID of player musso223 is 654a1ad5-f5af-328b-aab5-6d7d3c337c3d
-[23:27:59] [Server thread/INFO]: musso223 joined the game
-[23:27:59] [Server thread/INFO]: musso223[/127.203.16.208:42651] logged in with entity id 443 at ([world]28.73761128701803, 92.0, 3.9677897689529202)
-[23:28:24] [Server thread/INFO]: musso223 lost connection: Disconnected
-[23:28:24] [Server thread/INFO]: musso223 left the game
-[23:28:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
-127.152.24.164:46381stop<--[HERE]
-[23:29:46] [User Authenticator #3/INFO]: UUID of player thiago10121 is 75474985-50a7-3dd8-a47c-dc73fd9c27df
-[23:29:47] [Server thread/INFO]: thiago10121 joined the game
-[23:29:47] [Server thread/INFO]: thiago10121[/127.155.7.177:59509] logged in with entity id 638 at ([world]-3.5, 106.0, -19.5)
-[23:30:23] [User Authenticator #3/INFO]: UUID of player D0ptra is 8001d426-478b-376a-9c9d-370b97298761
-[23:30:24] [Server thread/INFO]: D0ptra joined the game
-[23:30:24] [Server thread/INFO]: D0ptra[/127.152.24.164:53979] logged in with entity id 694 at ([world]-8.5, 100.0, -14.5)
-[23:31:35] [Server thread/INFO]: thiago10121 issued server command: /JAJAJA
-[23:31:37] [Async Chat Thread - #0/INFO]: [Not Secure] <thiago10121> jaja
-[23:31:46] [Async Chat Thread - #0/INFO]: [Not Secure] <xl_Urriel> jajajaa
-[23:31:52] [Async Chat Thread - #0/INFO]: [Not Secure] <xl_Urriel> nos unimos=?
-[23:31:58] [Async Chat Thread - #0/INFO]: [Not Secure] <thiago10121> espera un poco mas
-[23:32:10] [Server thread/INFO]: xl_Urriel has made the advancement [Stone Age]
-[23:32:12] [Server thread/INFO]: thiago10121 was doomed to fall by D0ptra
-[23:32:59] [Server thread/INFO]: D0ptra was slain by thiago10121
-[23:33:30] [Server thread/INFO]: thiago10121 was slain by Zombie
-[23:33:56] [Server thread/INFO]: D0ptra froze to death
-[23:35:24] [Server thread/INFO]: D0ptra has made the advancement [Monster Hunter]
-[23:35:51] [Server thread/INFO]: D0ptra lost connection: Disconnected
-[23:35:51] [Server thread/INFO]: D0ptra left the game
-[23:37:23] [Server thread/INFO]: xl_Urriel has made the advancement [Getting an Upgrade]
-[23:37:24] [Server thread/INFO]: thiago10121 fell from a high place
-[23:38:09] [User Authenticator #4/INFO]: UUID of player D0ptra is 8001d426-478b-376a-9c9d-370b97298761
-[23:38:10] [Server thread/INFO]: D0ptra joined the game
-[23:38:10] [Server thread/INFO]: D0ptra[/127.152.24.164:58107] logged in with entity id 1549 at ([world]87.69999998807907, 104.0, -8.978738771695452)
-[23:39:06] [Server thread/INFO]: thiago10121 has made the advancement [Stone Age]
-[23:39:38] [Server thread/INFO]: D0ptra has made the advancement [Stone Age]
-[23:40:21] [Server thread/INFO]: D0ptra has made the advancement [Getting an Upgrade]
-[23:40:27] [Server thread/INFO]: thiago10121 has made the advancement [Getting an Upgrade]
-[23:42:24] [Server thread/INFO]: xl_Urriel has made the advancement [Monster Hunter]
-[23:47:07] [Server thread/INFO]: thiago10121 fell from a high place
-[23:51:39] [Server thread/INFO]: thiago10121 has made the advancement [Monster Hunter]
+[06:28:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:28:55] [ServerMain/INFO]: Loaded 1407 recipes
+[06:28:55] [ServerMain/INFO]: Loaded 1520 advancements
+[06:28:55] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[06:28:55] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 331.0ms
+[06:28:55] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[06:28:55] [Server thread/INFO]: Loading properties
+[06:28:56] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[06:28:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[06:28:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:28:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:28:57] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[06:28:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[06:28:58] [Server thread/INFO]: Default game type: SURVIVAL
+[06:28:58] [Server thread/INFO]: Generating keypair
+[06:28:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:28:58] [Server thread/INFO]: Using epoll channel type
+[06:28:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:28:58] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[06:28:58] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[06:28:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:28:58] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[06:29:00] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[06:29:00] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[06:29:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:29:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:29:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:29:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:29:00] [Server thread/INFO]: Preparing level "world"
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[06:29:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[06:29:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:29:02] [Server thread/INFO]: Preparing spawn area: 0%
+[06:29:02] [Server thread/INFO]: Preparing spawn area: 0%
+[06:29:03] [Server thread/INFO]: Preparing spawn area: 0%
+[06:29:03] [Server thread/INFO]: Preparing spawn area: 0%
+[06:29:03] [Server thread/INFO]: Time elapsed: 1892 ms
+[06:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:29:03] [Server thread/INFO]: Preparing spawn area: 0%
+[06:29:03] [Server thread/INFO]: Time elapsed: 331 ms
+[06:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:29:03] [Server thread/INFO]: Preparing spawn area: 0%
+[06:29:03] [Server thread/INFO]: Time elapsed: 233 ms
+[06:29:04] [Server thread/INFO]: [spark] Starting background profiler...
+[06:29:04] [Server thread/INFO]: Done preparing level "world" (4.187s)
+[06:29:04] [Server thread/INFO]: Running delayed init tasks
+[06:29:04] [Server thread/INFO]: Done (19.655s)! For help, type "help"
+[06:29:05] [User Authenticator #0/INFO]: UUID of player xl_Urriel is 43b190dc-7144-35bb-9cb5-0befa3a3fa7b
+[06:29:05] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[06:29:06] [Server thread/INFO]: xl_Urriel joined the game
+[06:29:06] [Server thread/INFO]: xl_Urriel[/127.35.155.111:57579] logged in with entity id 52 at ([world]-9.919401507896017, 83.0, 8.760895583107772)
+[06:29:08] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 536ce34d-b128-458e-8259-d3e3ac9812e8, mapped to Bat['Bat'/105, uuid='536ce34d-b128-458e-8259-d3e3ac9812e8', l='ServerLevel[world]', x=-111.31, y=100.10, z=27.79, cpos=[-7, 1], tl=0, v=true], can't add Bat['Bat'/116, uuid='536ce34d-b128-458e-8259-d3e3ac9812e8', l='ServerLevel[world]', x=-112.38, y=99.03, z=28.64, cpos=[-8, 1], tl=0, v=false]
+[06:29:08] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b9e6be79-0ee2-4f19-9d8e-cfdc743cdec3, mapped to Goat['Goat'/129, uuid='b9e6be79-0ee2-4f19-9d8e-cfdc743cdec3', l='ServerLevel[world]', x=-126.59, y=167.00, z=-26.80, cpos=[-8, -2], tl=0, v=true], can't add Goat['Goat'/147, uuid='b9e6be79-0ee2-4f19-9d8e-cfdc743cdec3', l='ServerLevel[world]', x=-128.54, y=166.00, z=-22.80, cpos=[-9, -2], tl=0, v=false]
+[06:29:09] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9c9b3960-a4c7-4993-8512-2760c656db9a, mapped to Goat['Goat'/145, uuid='9c9b3960-a4c7-4993-8512-2760c656db9a', l='ServerLevel[world]', x=-90.48, y=157.02, z=-78.62, cpos=[-6, -5], tl=0, v=true], can't add Goat['Goat'/171, uuid='9c9b3960-a4c7-4993-8512-2760c656db9a', l='ServerLevel[world]', x=-96.36, y=158.00, z=-87.74, cpos=[-7, -6], tl=0, v=false]
+[06:29:14] [User Authenticator #0/INFO]: UUID of player D0ptra is 8001d426-478b-376a-9c9d-370b97298761
+[06:29:15] [Server thread/INFO]: D0ptra joined the game
+[06:29:15] [Server thread/INFO]: D0ptra[/127.152.24.164:56881] logged in with entity id 269 at ([world]-21.540837275580063, 100.41999998688698, 34.91908658569221)
+[06:29:17] [User Authenticator #0/INFO]: UUID of player musso223 is 654a1ad5-f5af-328b-aab5-6d7d3c337c3d
+[06:29:18] [Server thread/INFO]: musso223 joined the game
+[06:29:18] [Server thread/INFO]: musso223[/127.203.16.208:60779] logged in with entity id 272 at ([world]28.73761128701803, 92.0, 3.9677897689529202)
+[06:29:23] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d25acc36-ca20-4609-920b-b4c93fa18d12, mapped to Chicken['Chicken'/313, uuid='d25acc36-ca20-4609-920b-b4c93fa18d12', l='ServerLevel[world]', x=217.00, y=106.00, z=-42.00, cpos=[13, -3], tl=0, v=true], can't add Chicken['Chicken'/315, uuid='d25acc36-ca20-4609-920b-b4c93fa18d12', l='ServerLevel[world]', x=225.12, y=108.00, z=-35.40, cpos=[14, -3], tl=0, v=false]
+[06:29:32] [Server thread/INFO]: musso223 issued server command: /tp musso223 xl_Urriel
+[06:29:32] [Server thread/INFO]: [musso223: Teleported musso223 to xl_Urriel]
+[06:29:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 36ac3e33-b72f-4840-88cf-5ea52697aa32, mapped to Chicken['Chicken'/332, uuid='36ac3e33-b72f-4840-88cf-5ea52697aa32', l='ServerLevel[world]', x=235.68, y=107.00, z=-80.72, cpos=[14, -6], tl=0, v=true], can't add Chicken['Chicken'/413, uuid='36ac3e33-b72f-4840-88cf-5ea52697aa32', l='ServerLevel[world]', x=242.88, y=105.00, z=-63.17, cpos=[15, -4], tl=0, v=false]
+[06:30:39] [Server thread/INFO]: musso223 issued server command: /tp xl_Urriel musso223
+[06:30:39] [Server thread/INFO]: [musso223: Teleported xl_Urriel to musso223]
+[06:31:02] [Server thread/INFO]: musso223 issued server command: /tp xl_Urriel musso223
+[06:31:02] [Server thread/INFO]: [musso223: Teleported xl_Urriel to musso223]
+[06:32:19] [Server thread/INFO]: musso223 issued server command: /locate structure minecraft:village_taiga
+[06:32:20] [Server thread/INFO]: Locating element minecraft:village_taiga took 683 ms
+[06:32:23] [Server thread/INFO]: musso223 issued server command: /locate structure minecraft:village_taiga
+[06:32:23] [Server thread/INFO]: Locating element minecraft:village_taiga took 0 ms
+[06:32:25] [Server thread/INFO]: musso223 issued server command: /tp xl_Urriel musso223
+[06:32:25] [Server thread/INFO]: [musso223: Teleported xl_Urriel to musso223]
+[06:32:28] [Server thread/INFO]: xl_Urriel fell from a high place
+[06:32:34] [Server thread/INFO]: musso223 issued server command: /tp xl_Urriel musso223
+[06:32:34] [Server thread/INFO]: [musso223: Teleported xl_Urriel to musso223]
+[06:32:37] [Server thread/INFO]: musso223 issued server command: /tp @s 64 ~ 656
+[06:32:37] [Server thread/INFO]: [musso223: Teleported musso223 to 64.500000, 106.488334, 656.500000]
+[06:32:54] [Server thread/INFO]: musso223 issued server command: /tp xl_Urriel musso223
+[06:32:54] [Server thread/INFO]: [musso223: Teleported xl_Urriel to musso223]
+[06:32:59] [Server thread/INFO]: musso223 issued server command: /tp D0ptra musso223
+[06:32:59] [Server thread/INFO]: [musso223: Teleported D0ptra to musso223]
+[06:33:32] [Server thread/INFO]: musso223 lost connection: Disconnected
+[06:33:32] [Server thread/INFO]: musso223 left the game
+[06:35:08] [Server thread/INFO]: xl_Urriel has made the advancement [Suit Up]
+[06:37:09] [User Authenticator #1/INFO]: UUID of player musso223 is 654a1ad5-f5af-328b-aab5-6d7d3c337c3d
+[06:37:10] [Server thread/INFO]: musso223 joined the game
+[06:37:10] [Server thread/INFO]: musso223[/127.203.16.208:42415] logged in with entity id 3308 at ([world]75.94999998807907, 67.0, 660.6962707009702)
+[06:37:17] [Server thread/INFO]: D0ptra has made the advancement [Acquire Hardware]
