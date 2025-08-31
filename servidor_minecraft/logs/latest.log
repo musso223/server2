@@ -149,3 +149,24 @@
 [06:47:52] [Server thread/INFO]: Villager Villager['Cartographer'/1738, uuid='9cc482df-79b9-460b-853d-ff2ba9b90537', l='ServerLevel[world]', x=62.89, y=67.56, z=667.00, cpos=[3, 41], tl=17985, v=true] was struck by lightning LightningBolt['Lightning Bolt'/5053, uuid='cf0770c3-64be-44d9-ab59-9c94714b9f45', l='ServerLevel[world]', x=63.78, y=69.00, z=663.73, cpos=[3, 41], tl=1, v=true].
 [06:47:52] [Server thread/INFO]: Villager Villager['Weaponsmith'/1726, uuid='6cecce34-276f-4c1b-89fe-ca87c6bc71a3', l='ServerLevel[world]', x=60.92, y=67.94, z=661.48, cpos=[3, 41], tl=17985, v=true] was struck by lightning LightningBolt['Lightning Bolt'/5053, uuid='cf0770c3-64be-44d9-ab59-9c94714b9f45', l='ServerLevel[world]', x=63.78, y=69.00, z=663.73, cpos=[3, 41], tl=1, v=true].
 [06:48:03] [Server thread/INFO]: musso223 has made the advancement [Monster Hunter]
+[06:49:23] [Server thread/INFO]: musso223 has made the advancement [Stone Age]
+[06:49:41] [Server thread/INFO]: xl_Urriel has made the advancement [Cover Me with Diamonds]
+[06:50:03] [Server thread/INFO]: Villager Villager['Fletcher'/1739, uuid='e8ae341c-7d07-4cdb-81a3-88d0d4868177', l='ServerLevel[world]', x=52.27, y=72.00, z=663.84, cpos=[3, 41], tl=20603, v=true] died, message: 'Fletcher was slain by musso223'
+[06:50:14] [Server thread/INFO]: Villager Villager['Fletcher'/5201, uuid='92bb0697-7e90-487c-99a2-03c5bec30b4b', l='ServerLevel[world]', x=81.02, y=66.00, z=633.95, cpos=[5, 39], tl=2363, v=true] died, message: 'Fletcher was slain by D0ptra'
+[06:51:06] [Server thread/INFO]: musso223 has made the advancement [What a Deal!]
+[06:51:37] [Server thread/INFO]: Villager Villager['Fletcher'/5487, uuid='b08ba640-5009-4e68-a0db-97d358d6e2b7', l='ServerLevel[world]', x=62.33, y=67.62, z=665.45, cpos=[3, 41], tl=2432, v=true] died, message: 'Fletcher was slain by D0ptra'
+[06:51:40] [Server thread/INFO]: D0ptra was slain by Iron Golem
+[06:51:42] [Server thread/INFO]: musso223 has made the advancement [Acquire Hardware]
+[06:51:43] [Server thread/INFO]: Villager Villager['Villager'/1752, uuid='e0844276-c189-4130-9070-a16c0995f1d8', l='ServerLevel[world]', x=135.30, y=63.00, z=658.30, cpos=[8, 41], tl=22619, v=true] died, message: 'Villager was slain by Zombie'
+[06:52:29] [Server thread/INFO]: musso223 has made the advancement [Sweet Dreams]
+[06:53:05] [Server thread/INFO]: Villager Villager['Fletcher'/5489, uuid='8e04b656-41d7-4e3c-b1d7-b2712456a31e', l='ServerLevel[world]', x=64.70, y=68.00, z=667.70, cpos=[4, 41], tl=4185, v=true] died, message: 'Fletcher was slain by musso223'
+[06:54:15] [Server thread/INFO]: musso223 issued server command: /time set day
+[06:54:15] [Server thread/INFO]: [musso223: Set the time to 1000]
+[06:55:06] [Server thread/INFO]: Villager Villager['Weaponsmith'/1725, uuid='55d2c55e-ec93-4e54-9187-dbdaa7a17956', l='ServerLevel[world]', x=87.50, y=64.00, z=637.49, cpos=[5, 39], tl=26682, v=true] died, message: 'Weaponsmith was slain by D0ptra'
+[06:56:20] [Server thread/INFO]: D0ptra has made the advancement [What a Deal!]
+[06:56:57] [Server thread/INFO]: Villager Villager['Weaponsmith'/1751, uuid='dcb61495-f01a-42e0-bbc7-7fc9a77107f6', l='ServerLevel[world]', x=139.70, y=63.00, z=658.48, cpos=[8, 41], tl=28891, v=true] died, message: 'Weaponsmith was slain by D0ptra'
+[06:57:23] [Server thread/INFO]: musso223 issued server command: /tp xl_Urriel musso223
+[06:57:23] [Server thread/INFO]: [musso223: Teleported xl_Urriel to musso223]
+[06:57:26] [Server thread/INFO]: D0ptra has made the advancement [Suit Up]
+[06:58:29] [Server thread/INFO]: [musso223: Set own game mode to Survival Mode]
+[06:58:33] [Server thread/INFO]: [musso223: Set own game mode to Creative Mode]
