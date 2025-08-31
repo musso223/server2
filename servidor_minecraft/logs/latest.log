@@ -105,3 +105,47 @@
 [06:37:10] [Server thread/INFO]: musso223 joined the game
 [06:37:10] [Server thread/INFO]: musso223[/127.203.16.208:42415] logged in with entity id 3308 at ([world]75.94999998807907, 67.0, 660.6962707009702)
 [06:37:17] [Server thread/INFO]: D0ptra has made the advancement [Acquire Hardware]
+[06:39:17] [Server thread/INFO]: D0ptra has made the advancement [Sweet Dreams]
+[06:39:47] [Server thread/INFO]: musso223 issued server command: /time set night
+[06:39:47] [Server thread/INFO]: [musso223: Set the time to 13000]
+[06:39:52] [Server thread/INFO]: musso223 issued server command: /time set day
+[06:39:52] [Server thread/INFO]: [musso223: Set the time to 1000]
+[06:40:40] [Server thread/INFO]: musso223 issued server command: /time set night
+[06:40:40] [Server thread/INFO]: [musso223: Set the time to 13000]
+[06:40:47] [Server thread/INFO]: musso223 issued server command: /time set day
+[06:40:47] [Server thread/INFO]: [musso223: Set the time to 1000]
+[06:41:10] [Server thread/INFO]: xl_Urriel has made the advancement [Acquire Hardware]
+[06:41:15] [Server thread/INFO]: [musso223: Set own game mode to Survival Mode]
+[06:41:17] [Server thread/INFO]: xl_Urriel has made the advancement [Isn't It Iron Pick]
+[06:46:09] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:46:09] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:46:11] [Server thread/INFO]: D0ptra has made the advancement [Surge Protector]
+[06:46:11] [Server thread/INFO]: musso223 has made the advancement [Surge Protector]
+[06:46:18] [Server thread/INFO]: xl_Urriel has made the advancement [Diamonds!]
+[06:46:22] [Server thread/INFO]: musso223 issued server command: /weather clear
+[06:46:22] [Server thread/INFO]: [musso223: Set the weather to clear]
+[06:46:42] [Server thread/INFO]: [musso223: Set own game mode to Creative Mode]
+[06:46:46] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:46:46] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:46:55] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:46:55] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:46:55] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:46:55] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:46:56] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:46:56] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:46:56] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:46:56] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:47:05] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:47:05] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:47:09] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:47:09] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:47:12] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:47:12] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:47:35] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:47:35] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:47:48] [Server thread/INFO]: musso223 issued server command: /summon mussoo223 minecraft:lightning_bolt
+[06:47:52] [Server thread/INFO]: musso223 issued server command: /summon minecraft:lightning_bolt
+[06:47:52] [Server thread/INFO]: [musso223: Summoned new Lightning Bolt]
+[06:47:52] [Server thread/INFO]: Villager Villager['Cartographer'/1738, uuid='9cc482df-79b9-460b-853d-ff2ba9b90537', l='ServerLevel[world]', x=62.89, y=67.56, z=667.00, cpos=[3, 41], tl=17985, v=true] was struck by lightning LightningBolt['Lightning Bolt'/5053, uuid='cf0770c3-64be-44d9-ab59-9c94714b9f45', l='ServerLevel[world]', x=63.78, y=69.00, z=663.73, cpos=[3, 41], tl=1, v=true].
+[06:47:52] [Server thread/INFO]: Villager Villager['Weaponsmith'/1726, uuid='6cecce34-276f-4c1b-89fe-ca87c6bc71a3', l='ServerLevel[world]', x=60.92, y=67.94, z=661.48, cpos=[3, 41], tl=17985, v=true] was struck by lightning LightningBolt['Lightning Bolt'/5053, uuid='cf0770c3-64be-44d9-ab59-9c94714b9f45', l='ServerLevel[world]', x=63.78, y=69.00, z=663.73, cpos=[3, 41], tl=1, v=true].
+[06:48:03] [Server thread/INFO]: musso223 has made the advancement [Monster Hunter]
